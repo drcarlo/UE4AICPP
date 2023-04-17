@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Whatevs.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{02FF01BC-7A8A-4AC9-A99E-60961F6954EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Whatevs.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WhatevsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{40C4C674-5697-4B8C-9F36-C024AFF94108}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Whatevs">
+      <UniqueIdentifier>{29A3B004-B7C3-4E65-98F4-29008217ED02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Whatevs\BP_LightSwitch_CPP.cpp">
+      <Filter>Source\Whatevs</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Whatevs\BP_LightSwitch_CPP.h">
+      <Filter>Source\Whatevs</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Whatevs\Whatevs.Build.cs">
+      <Filter>Source\Whatevs</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Whatevs\Whatevs.cpp">
+      <Filter>Source\Whatevs</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Whatevs\Whatevs.h">
+      <Filter>Source\Whatevs</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

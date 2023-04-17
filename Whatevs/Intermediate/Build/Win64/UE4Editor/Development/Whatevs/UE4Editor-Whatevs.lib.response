@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Whatevs.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\WhatevsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\BP_LightSwitch_CPP.cpp.obj"
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\Whatevs.cpp.obj"
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\BP_LightSwitch_CPP.gen.cpp.obj"
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\Whatevs.init.gen.cpp.obj"
+"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\Default.rc2.res"
+/OUT:"C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\UE4Editor-Whatevs.lib"

@@ -1,0 +1,2 @@
+C:\Users\id126018\Documents\Unreal Projects\Whatevs\Intermediate\Build\Win64\UE4Editor\Development\Whatevs\Definitions.Whatevs.h
+C:\Users\id126018\Documents\Unreal Projects\Whatevs\Source\Whatevs\Whatevs.h

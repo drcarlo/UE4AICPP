@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Whatevs",
+			"Path": "C:\\Users\\id126018\\Documents\\Unreal Projects\\Whatevs\\Source\\Whatevs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WhatevsEditor",
+			"Path": "C:\\Users\\id126018\\Documents\\Unreal Projects\\Whatevs\\Source\\WhatevsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
